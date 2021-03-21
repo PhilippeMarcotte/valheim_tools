@@ -21,4 +21,4 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-0 4 * * * /opt/Dedicated_Valheim_Server_Script/update.sh
+0 4 * * * /opt/valheim_tools/update.sh
